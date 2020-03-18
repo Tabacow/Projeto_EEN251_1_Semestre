@@ -13,4 +13,4 @@ IDEIAS:
 3-Growing indoor (aquaponia)
 4-Placa fotovoltaica que segue o movimento do sol
 5-Kart do mario (com turbo de cogumelo, arremessador de casco)
-6-
+6-Robo simulador de emoções (Vector)
