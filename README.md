@@ -14,3 +14,4 @@ Sensor de luz
 
 
 
+https://produto.mercadolivre.com.br/MLB-1083436068-modulo-sensor-de-umidade-de-solo-higrometro-para-arduino-_JM?quantity=1#position=6&type=item&tracking_id=83b076f6-2658-4787-bb66-5cce8c9a542c
