@@ -12,9 +12,9 @@ Growing indoor (aquaponia)
 
 Sensor de luz
 
-23 Sensor Temp. Umidade DTH11 DTH11
+23 Sensor Temp. Umidade DTH11
 
-Sensor Bluetooth
+Sensor Bluetooth HM10
 
 Sensor Higrometro YI-69
 
