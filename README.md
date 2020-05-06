@@ -12,7 +12,7 @@ Growing indoor (aquaponia)
 
 Sensor de luz
 
-23 Sensor Temp. Umidade DTH11
+23 Sensor Temp. Umidade DHT11
 http://www.geekbotelectronics.com/wp-content/uploads/2014/09/DTH11_geekbot.pdf
 
 Sensor Bluetooth HM10
