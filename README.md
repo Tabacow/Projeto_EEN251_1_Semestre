@@ -15,7 +15,7 @@ Sensor de luz
 23 Sensor Temp. Umidade DHT11
 http://www.geekbotelectronics.com/wp-content/uploads/2014/09/DTH11_geekbot.pdf
 
-Sensor Bluetooth HM10
+Modulo Bluetooth HM10
 https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf
 
 Sensor de pH SEN0169
