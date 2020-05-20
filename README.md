@@ -10,6 +10,10 @@ IDEIA:
 
 Growing indoor (aquaponia)
 
+ProtoBoard
+
+Amp. Op.
+
 Sensor de luz
 
 23 Sensor Temp. Umidade DHT11
