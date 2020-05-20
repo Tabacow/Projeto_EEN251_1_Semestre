@@ -12,7 +12,7 @@ Growing indoor (aquaponia)
 
 ProtoBoard
 
-Amp. Op.
+Amp. Op. para 2 sensores de -5V a 5V
 
 Sensor de luz
 
