@@ -1,0 +1,14 @@
+from gpiozero import DistanceSensor
+from time import sleep
+from pyo import *
+
+
+s = Server(duplex=1,audio="jack").boot()
+s.start()
+sensor = DistanceSensor(echo=17,trigger=4)
+
+while True:
+    read = sensor.distance * 600
+    print(read)
+    a = Sine(mul=0.01,freq=read).out()
+    sleep(0.1)
